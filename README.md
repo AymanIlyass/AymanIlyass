@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AymanIlyass
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Projects with aim to resolve a digitalization problem
 - 📫 How to reach me : elmouss.ayman0@gmail.com
 
